@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "amora" extension will be documented in this file.
+All notable changes to the "jack-o-lantern" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
