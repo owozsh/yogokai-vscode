@@ -1,6 +1,6 @@
 {
-  "name": "jack-o-lantern",
-  "displayName": "Jack O'Lantern",
+  "name": "yogokai",
+  "displayName": "Yogokai",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,12 +12,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jack O'Lantern",
+        "label": "Yogokai",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-color-theme.json"
       },
       {
-        "label": "Jack O'Lantern",
+        "label": "Yogokai Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Soft-color-theme.json"
+      },
+      {
+        "label": "Yogokai Light",
         "uiTheme": "vs",
         "path": "./themes/Light-color-theme.json"
       }
