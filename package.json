@@ -16,12 +16,12 @@
       {
         "label": "yogokai",
         "uiTheme": "vs-dark",
-        "path": "./theme-generator/out/yogokai.json"
+        "path": "./colors/yogokai.json"
       },
       {
         "label": "yogokai midnight",
         "uiTheme": "vs-dark",
-        "path": "./theme-generator/out/yogokai_midnight.json"
+        "path": "./colors/yogokai_midnight.json"
       }
     ]
   },
