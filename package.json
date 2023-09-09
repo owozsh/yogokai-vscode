@@ -3,7 +3,7 @@
   "publisher": "owozsh",
   "displayName": "yogokai",
   "description": "",
-  "version": "7.0.0",
+  "version": "8.0.1",
   "repository": "https://github.com/owozsh/yogokai-vscode",
   "engines": {
     "vscode": "^1.65.0"
@@ -16,12 +16,12 @@
       {
         "label": "yogokai",
         "uiTheme": "vs-dark",
-        "path": "./colors/yogokai.json"
+        "path": "./out/yogokai.json"
       },
       {
         "label": "yogokai midnight",
         "uiTheme": "vs-dark",
-        "path": "./colors/yogokai_midnight.json"
+        "path": "./out/yogokai_midnight.json"
       }
     ]
   },
