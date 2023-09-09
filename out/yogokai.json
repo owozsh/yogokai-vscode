@@ -7,7 +7,7 @@
     "type": "#8dc8e0",
     "method": "#8de0a4",
     "parameter": "#c5c9d8",
-    "property": "#a48de0",
+    "property": "#8d9fe0",
     "variable.defaultLibrary": "#8dc8e0"
   },
   "colors": {
@@ -138,7 +138,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#4a7582"
+        "foreground": "#505a7f"
       }
     },
     {
@@ -169,28 +169,28 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#a48de0"
+        "foreground": "#8d9fe0"
       }
     },
     {
       "name": "Property",
       "scope": "variable.other.property",
       "settings": {
-        "foreground": "#a48de0"
+        "foreground": "#8d9fe0"
       }
     },
     {
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#a48de0"
+        "foreground": "#8d9fe0"
       }
     },
     {
       "name": "User-defined constant",
       "scope": "constant.character, constant.other",
       "settings": {
-        "foreground": "#a48de0"
+        "foreground": "#8d9fe0"
       }
     },
     {
@@ -356,7 +356,7 @@
     {
       "scope": "constant.numeric.line-number.find-in-files - match",
       "settings": {
-        "foreground": "#a48de0A0"
+        "foreground": "#8d9fe0A0"
       }
     },
     {
@@ -435,7 +435,7 @@
       "name": "Markdown Link Title/Description",
       "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
-        "foreground": "#a48de0"
+        "foreground": "#8d9fe0"
       }
     },
     {
@@ -507,7 +507,7 @@
       "name": "Punctuation",
       "scope": "punctuation.separator",
       "settings": {
-        "foreground": "#4a7582"
+        "foreground": "#505a7f"
       }
     }
   ]
