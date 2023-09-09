@@ -20,7 +20,7 @@
   "$WHITE": "#CFCCC4",
   "$SELECTION": "#CFCCC420",
   "$BG_BASE": "#101421",
-  "$BG_BRIGHT": "#131A21",
+  "$BG_BRIGHT": "#161c2d",
   "$BG_DARK": "#0e111c",
   "$BORDER": "#0D141A"
 }
