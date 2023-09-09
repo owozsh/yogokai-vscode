@@ -3,7 +3,7 @@
   "publisher": "owozsh",
   "displayName": "yogokai",
   "description": "",
-  "version": "8.2.2",
+  "version": "9.2.2",
   "repository": "https://github.com/owozsh/yogokai-vscode",
   "engines": {
     "vscode": "^1.65.0"
@@ -19,9 +19,19 @@
         "path": "./out/yogokai.json"
       },
       {
+        "label": "yogokai mint",
+        "uiTheme": "vs-dark",
+        "path": "./out/yogokai_mint.json"
+      },
+      {
         "label": "yogokai midnight",
         "uiTheme": "vs-dark",
         "path": "./out/yogokai_midnight.json"
+      },
+      {
+        "label": "yogokai wine",
+        "uiTheme": "vs-dark",
+        "path": "./out/yogokai_wine.json"
       }
     ]
   },

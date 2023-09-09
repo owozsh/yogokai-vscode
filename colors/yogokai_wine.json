@@ -1,10 +1,10 @@
 {
-  "$THEME_NAME": "yogokai midnight",
-  "$ACCENT": "#aad192",
+  "$THEME_NAME": "yogokai wine",
+  "$ACCENT": "#c6cc9b",
   "$FUNCTION": "#aad192",
   "$TYPE": "#9ad1bc",
   "$PARAMETER": "#CFCCC4",
-  "$COMMENT": "#4c717f",
+  "$COMMENT": "#7f4c71",
   "$KEYWORD": "#d187a1",
   "$STRING": "#c6cc9b",
   "$PROPERTY": "#bda3cc",
@@ -19,8 +19,8 @@
   "$CYAN": "#93C5BF",
   "$WHITE": "#CFCCC4",
   "$SELECTION": "#CFCCC420",
-  "$BG_BASE": "#111523",
-  "$BG_BRIGHT": "#161c2d",
-  "$BG_DARK": "#0f121e",
-  "$BORDER": "#111523"
+  "$BG_BASE": "#151023",
+  "$BG_BRIGHT": "#1e1630",
+  "$BG_DARK": "#130e1e",
+  "$BORDER": "#151023"
 }
